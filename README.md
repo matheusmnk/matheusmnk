@@ -46,9 +46,9 @@ I’m building hands-on projects in **Linux, networking, OWASP Top 10, Nmap, Bur
 
 | Projeto | Descrição | Status | Link |
 |---------|-----------|--------|------|
-| **Análise de Logs e Resposta a Incidentes** | Projeto de portfólio usando Windows e ferramentas de análise de logs para monitoramento e resposta a incidentes. | 🟢 Em andamento | [Repositório](#) |
-| **Monitoramento com SIEM Open-Source** | Implementação de SIEM em Linux para monitoramento de segurança, alertas e análise de eventos. | 🟢 Em andamento | [Repositório](#) |
-| **Automação de Tarefas de Segurança** | Scripts em Python para coleta de informações, análise de vulnerabilidades e automação de processos repetitivos. | 🟢 Em andamento | [Repositório](#) |
+| **Análise de Logs e Resposta a Incidentes** | Projeto de portfólio usando Windows e ferramentas de análise de logs para monitoramento e resposta a incidentes. | 🟢 Em andamento | [Repositório](https://github.com/matheusmnk/SOC-Log-Analysis) |
+| **Monitoramento com SIEM Open-Source** | Implementação de SIEM em Linux para monitoramento de segurança, alertas e análise de eventos. | 🟡 Planejando | [Repositório](#) |
+| **Automação de Tarefas de Segurança** | Scripts em Python para coleta de informações, análise de vulnerabilidades e automação de processos repetitivos. | 🟡 Planejando | [Repositório](#) |
 
 ---
 
