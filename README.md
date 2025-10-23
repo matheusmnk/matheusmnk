@@ -8,7 +8,7 @@ Atualmente, estou me especializando em **análise de vulnerabilidades, resposta 
 Tenho experiência prévia em **análise de dados e automação de processos**, o que me ajuda a investigar alertas, entender padrões e agir de forma lógica e eficiente.  
 Estou construindo projetos práticos em **Linux, redes, OWASP Top 10, Nmap, Burp Suite, Wireshark e Metasploit**, com o objetivo de ingressar em uma equipe de segurança cibernética e continuar evoluindo na área.  
 
-🚀 **Atualmente em busca de uma oportunidade como Assistente ou Analista Júnior de Segurança da Informação (SOC / Pentest).**  
+🚀 **Atualmente em busca de uma oportunidade como Analista Júnior de Segurança da Informação (SOC / Pentest).**  
 
 ---
 
