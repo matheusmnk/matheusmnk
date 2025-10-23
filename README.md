@@ -55,4 +55,4 @@ I’m building hands-on projects in **Linux, networking, OWASP Top 10, Nmap, Bur
 ### 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdarocha--/)  
-[![E-mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmVPPgxrFwQwGvDcHWZHpMfFKzpWdlnDFtswGtkDKgLVdpwSMQjWrQxdZHvvWfJJWdtrlq)
+[![E-mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=matheusrcdrc@outlook.com)
