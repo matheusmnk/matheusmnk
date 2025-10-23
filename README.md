@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Sou o Matheus, aspirante a Analista de Segurança da Informação, com foco em SOC e Pentest.
+Atualmente, estou me especializando em análise de vulnerabilidades, resposta a incidentes, SIEM e segurança ofensiva.
+
+Tenho experiência prévia em análise de dados e automação de processos, o que me ajuda a investigar alertas, entender padrões e agir de forma lógica e eficiente.
+Estou construindo projetos práticos em Linux, redes, OWASP Top 10, Nmap, Burp Suite, Wireshark e Metasploit, com o objetivo de ingressar em uma equipe de segurança cibernética e continuar evoluindo na área.
 <!--
 **matheusmnk/matheusmnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
